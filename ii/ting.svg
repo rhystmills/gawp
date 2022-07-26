@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="ting.svg"
+   id="svg841"
+   width="100"
+   version="1.2"
+   stroke-width="1"
+   stroke-opacity="1.0"
+   stroke="black"
+   height="100"
+   fill="none">
+  <metadata
+     id="metadata845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg841"
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="53.554288"
+     inkscape:cx="42.702415"
+     inkscape:zoom="14.24"
+     showgrid="false"
+     id="namedview843"
+     inkscape:window-height="1025"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs833" />
+  <polyline
+     transform="translate(1.9662921,2.5280899)"
+     id="polyline835"
+     stroke="#00ecff"
+     points="52,53 52,69 7,69 7,72 7,35 7,42 7,67 7,49 7,31 7,1 7,30 7,42 77,42 17,42 14,42 14,71 14,69 14,68 68,68 70,68 3,68 22,68 22,62 22,8 22,11 18,11 74,11 18,11 18,55 18,29 18,36 3,36 3,63 3,59 15,59 64,59 64,73 64,1 7,1 71,1 71,73 15,73 15,46 32,46 32,48 69,48 20,48 20,24 20,42 20,8 20,27 20,53 73,53 51,53 51,29 51,31 2,31 25,31 25,38 25,76 78,76 53,76 19,76 19,36 66,36 16,36 41,36 41,12 24,12 24,48 71,48 75,48 75,17 74,17 14,17 3,17 45,17 67,17 67,44 67,58 2,58 2,57 2,30 2,71 2,26 2,71 2,4 11,4 56,4 56,70 52,70 52,5 52,73 52,38 52,35 52,48 52,42 52,28 52,4 52,10" />
+  <polyline
+     transform="translate(1.9662921,2.5280899)"
+     id="polyline837"
+     stroke="#f300c8"
+     points="26,63 20,63 20,38 68,38 68,5 68,59 68,2 68,26 52,26 1,26 68,26 68,34 61,34 35,34 35,6 35,59 35,46 50,46 60,46 12,46 12,1 12,79 29,79 73,79 21,79 21,52 21,70 21,26 21,6 69,6 43,6 43,39 28,39 28,1 28,72 28,76 35,76 77,76 77,76 74,76 48,76 7,76 43,76 44,76 44,6 44,24 44,72 44,71 44,37 44,18 31,18 42,18 58,18 58,52 44,52 44,66 44,8 44,31 59,31 16,31 40,31 40,24 30,24 30,71 30,20 30,41 6,41 40,41 40,79 45,79 45,75 45,0 57,0 74,0 74,73 41,73 41,78 79,78 79,55 73,55 73,27 66,27 63,27 63,24 22,24 36,24 36,62 9,62 0,62 49,62 48,62 48,5 68,5 39,5 39,7 39,7 21,7 21,72 21,3 21,30" />
+  <polyline
+     transform="translate(1.9662921,2.5280899)"
+     id="polyline839"
+     stroke="#ffe321"
+     points="53,4 53,79 11,79 11,1 11,29 11,78 11,41 47,41 37,41 21,41 1,41 41,41 41,51 24,51 22,51 74,51 53,51 53,27 53,16 53,66 53,76 20,76 20,71 76,71 76,32 21,32 21,12 53,12 53,46 53,55 53,64 53,22 53,37 53,66 53,76 65,76 18,76 72,76 72,15 72,5 74,5 74,49 48,49 48,65 48,53 74,53 74,18 46,18 9,18 9,25 9,68 9,45 9,16 9,71 32,71 23,71 24,71 55,71 54,71 29,71 23,71 23,27 23,65 23,76 69,76 65,76 65,75 64,75 64,26 24,26 51,26 51,3 7,3 7,7 7,21 7,55 73,55 4,55 69,55 69,47 69,79 69,30 69,71 23,71 23,56 71,56 71,21 71,23 1,23 1,17 1,43 46,43 46,49 36,49 62,49 62,8 70,8 11,8 11,32 39,32" />
+  <path
+     d="m 8.9662916,6.5280897 v 3 14.0000003 2 h -5 v 3 4 1 12 h 1 v -7 H 19.966292 v -25 h 4 v 25 h -3 v 10 h -4 v 9 h 38 v 1 h -30 v 9 6 h -8 v 2 h 4 v 3 h 6 v -3 h 46 v -25 h -2 -2 v -4 -26 h -3 v 30 h -8 v -40 h -3 v 4 h -2 v 6 h 2 v 4 1 h -2 v -5 h -5 l 3,-6 h 2 v -4 -4.0000003 h -40 z M 52.966292,10.52809 h 2 V 6.5280897 Z m 20,40 h 4 v -16 h -3 v -14 h -1 z m 1,-30 h 2 v -1 h -2 z m -48,-6 h 17 v 19 h 10 v 17 h -19 v -2 h -7 v -8 -2 h -1 z m 1,24 h 16 v -5 h -16 z m -18.0000004,6 v 1 6 6 h 2.0000004 v 3 h 2 v -3 h 3 v -13 z m 49.0000004,16 h 8 v 1 h -8 z m -47,1 v 9 1 h 2 v -10 z"
+     style="stroke:#54ff00;stroke-opacity:1"
+     id="polyline835-2" />
+  <path
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+     d="m 46.966295,5.5280899 v 2 h 3 V 16.52809 l 1,-2 h 2 v -4 -5.0000001 z m 6,5.0000001 h 2 V 6.5280899 Z m 2,0 v 4 h -2 v 6 h 2 v 4 1 h -2 v -5 h -3 -2 -1 v 6 h 3 v 10 h 9.999997 v -10 h 5 v 3 h 3 6 v -9 h -10 v -10 z m 18.999997,10 h 2 V 7.5280899 h -2 V 17.52809 Z m -14,16 v 4 h 10 v -4 h -7 z m 0,4 h -9.999997 v 14 h 9.999997 z m -9.999997,14 h -3 v -14 h 3 v -4 h -3 v -10 h -1 v -6 h 1 V 7.5280899 h -6 v 1 h 4 V 26.52809 h -7 -6 v 14 h 5 v 1 h -5 v 2 h 5 v 5 h -7 v 9 h 20 z m -20,-6 v -7 h 2 v -1 h -7.787109 l -1.060547,-7 -0.152344,-1 v 8 h -1 v 8 h 1 v 6 3 h 3.787109 l -1.363281,-9 z m -8,0 h -8 v 9 h 8 z m 19,-40.0000001 h -18 v 1 h 18 z M 74.966292,34.52809 v 23 h 1 v -23 z m 1,23 v 16 h 2 v -16 z m -50.999997,1 v 7 h 3 c -0.355278,-2.333066 -0.70735,-4.666619 -1.060547,-7 z m 5,0 v 16 4 h 12 v 3 h 5 v -1 h 8 v -2 h 18.999997 v -3 H 46.966295 v -11 h 3 v -6 z m -16,15 v 8 h 9 v -7 -1 z"
+     style="stroke:#f30029;stroke-opacity:1"
+     id="polyline837-4" />
+  <path
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+     d="M 65.966295,3.5280899 V 29.52809 h 2 1 v -10 h 4 V 3.5280899 Z m 7,16.0000001 v 10 h 2 v 21 h 1 v -31 z m -26,-13.0000001 v 1 h 3 V 20.52809 h -3 v 6 h 3 v 7 h 3 v 3 h 5 V 6.5280899 Z m 0,20.0000001 h -1 v -6 h 1 V 7.5280899 h -6 v 1 h 4 V 26.52809 h -2 v 7 h 4 z m -4,7 h -11 v 5 h 11 z m -2,-25.0000001 h -18 v 1 h 18 z m 25,28.0000001 v 4 h 3 v -4 z m -39,12 v -8 h -2.787109 l -0.302735,-2 h -0.910156 v 2 h -1 v 8 h 1 v 6 10.999996 h 5 l -0.152344,-1 m -4.847656,1 h -1 V 48.52809 h -1 -4 v 12 h 4 v 1 h -4 v 8.999996 h -1 V 61.52809 h -2 v 9.999996 h 3 v 4 h 4 v 3 h 2 v -4 -2 z m -7,-3.999996 h 1 v -1 h -1 z m 0,-1 v -12 h -2 v 12 z m 37,-20 v 10 h -3 v 4 h 10 v -4 h -2 v -10 z m -3,14 h -3 v -4 h -13 v -2 h -4 v 25.999996 1 h 17 v -11 h 3 z"
+     style="stroke:#1000ff;stroke-opacity:1"
+     id="polyline835-0" />
+  <path
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+     d="m 46.966299,6.52809 v 1 h 3 v 9 l 1,-2 h 2 v -4 -4 z m 6,4 h 2 v -4 z m 2,0 v 4 h -2 v 6 h 2 v 4 1 h -2 v -5 h -3 -2 -1 v 6 h 3 v 7 h 3 v 3 h 5 v -26 z m -8,16 h -1 v -6 h 1 v -13 h -6 v 1 h 4 v 18 h -2 v 7 h 4 z m -4,7 h -11 v 5 h 11 z m -2,-25 H 22.966295 v 1 h 18.000004 z m 33,11 v 1 h 2 v -1 z m 0,1 h -1 v 9 h 1 z m -8,0 v 9 h 2 1 v -9 z m 9,14 v 16 h 1 v -16 z m -9,2 v 4 h 3 v -4 z m -40.576176,12 h 1.576172 v -8 h -2.787109 l -0.302735,-2 h -0.910156 v 2 h -1 v 8 h 1 v 6 3 h 3.78711 m -4.78711,-9 h -1 -4 v 9 h 5 z m 31.000004,-8 v 10 h -3 v 4 h 10 v -4 h -2 v -10 z m -3,14 h -3 v -4 h -13 v -2 h -4.000004 v 9 h 20.000004 z m -36.000004,-6 v 9 h 2 v -9 z m 12.939453,10 -1.939453,0 v 7 h 3 m 2,-7 v 16 1 h 17.000004 v -11 h 3 v -6 z m -13,15 v 2 h 4 v 3 h 2 v -4 -1 z"
+     style="stroke:#000000;stroke-opacity:1"
+     id="polyline835-2-1" />
+</svg>
